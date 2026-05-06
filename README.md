@@ -5,8 +5,8 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome: Kaique 
-- Matricula:
+- Nome: Kaique Ademilson Miranda Furtado Silva
+- Matricula: 903296
 
 ## Prints do console do navegador
 
