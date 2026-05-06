@@ -5,7 +5,7 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
+- Nome: Kaique 
 - Matricula:
 
 ## Prints do console do navegador
